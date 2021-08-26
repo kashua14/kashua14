@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kashua14
-- 👀 I’m interested in mobile development, flutter, java, python and ReactJS
-- 🌱 I’m currently learning TensorFlow for Machine Learning.
+- 👀 I’m interested in mobile development, flutter, java, python and ReactJS.
 - 💞️ I’m looking to collaborate on projects in the above mentioned languages.
 - 📫 How to reach me: joshkasasira@gmail.com will be a nice place to start.
 
