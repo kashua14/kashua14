@@ -9,9 +9,9 @@
 
 
 <h2>My GitHub Stats:</h2>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kashua14&theme=dracula&show_icons=true" alt="kashua14"/>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=kashua14&theme=dracula&hide_border=false" alt ="kashua14"/>
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=kashua14&theme=dracula&show_icons=true" alt="kashua14" height="200" width="350"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=kashua14&theme=dracula&hide_border=false" alt ="kashua14" height="200" width="350"/>
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kashua14&theme=dracula&show_icons=true&locale=en&layout=compact" alt="kashua14" height="300" width="250"/> -->
 </p>
 <p>
