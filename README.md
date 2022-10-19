@@ -10,10 +10,10 @@
 
 <h2>My GitHub Stats:</h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kashua14&theme=dracula&show_icons=true" alt="kashua14" height="200" width="300"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kashua14&theme=dracula&show_icons=true" alt="kashua14" height="200" width="200"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kashua14&theme=dracula&show_icons=true&locale=en&layout=compact" alt="kashua14" height="200" width="300"/>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=kashua14&theme=dracula&hide_border=false" alt ="kashua14" height="200" width="300"/>
-<img src="https://github.com/kashua14/kashua14/blob/main/ezgif.com-gif-maker.gif" alt="@kashua14 Gitub Skyline" height="200" width="300"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=kashua14&theme=dracula&hide_border=false" alt ="kashua14" height="200" width="200"/>
+<img src="https://github.com/kashua14/kashua14/blob/main/ezgif.com-gif-maker.gif" alt="@kashua14 Gitub Skyline" height="200" width="200"/>
 </p>
 
 
