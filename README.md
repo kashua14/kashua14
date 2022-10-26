@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kasasira Joshua</h1>
+# Hi 👋, I'm Kasasira Joshua
 
 ```dart
 import 'package:developer/SoftwareEngineer';
@@ -9,7 +9,7 @@ class Bio extends SoftwareEngineer {
   final String location = 'Kampala, Uganda';
 
   String get quick_bio => 
-  '⚡ Enthusiastic about building software and quality oriented self motivating engineer';
+  '⚡ Enthusiastic about building software, self motivated and quality oriented engineer';
 
   String get looking_to_collaborate_on =>
   '👯 Flutter, Java, React and Docker related projects';
@@ -23,7 +23,7 @@ class Bio extends SoftwareEngineer {
 }
 ```
 
-<h2>My GitHub Stats:</h2>
+## My GitHub Stats:
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=kashua14&theme=dracula&show_icons=true" alt="kashua14" height="200" width="350"/>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=kashua14&theme=dracula&hide_border=false" alt ="kashua14" height="200" width="350"/>
@@ -34,7 +34,7 @@ class Bio extends SoftwareEngineer {
 </p>
 
 
-<h2 align="left">Languages and Tools:</h2>
+## Languages and Tools:
 <p align="left"> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
