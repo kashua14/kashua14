@@ -29,9 +29,9 @@ class Bio extends SoftwareEngineer {
   <img src="http://github-readme-streak-stats.herokuapp.com?user=kashua14&theme=dracula&hide_border=false" alt ="kashua14" height="200" width="350"/>
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kashua14&theme=dracula&show_icons=true&locale=en&layout=compact" alt="kashua14" height="300" width="250"/> -->
 </p>
-<p>
-  <img src="https://skyline.github.com/kashua14/2022" alt="@kashua14 Gitub Skyline" height="300" width="300"/>
-</p>
+
+  ![3D chart for contributions](https://skyline.github.com/kashua14/2022.png)
+
 
 
 ## Languages and Tools:
