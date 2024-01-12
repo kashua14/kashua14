@@ -30,8 +30,6 @@ class Bio extends SoftwareEngineer {
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kashua14&theme=dracula&show_icons=true&locale=en&layout=compact" alt="kashua14" height="300" width="250"/> -->
 </p>
 
-  ![3D chart for contributions](https://skyline.github.com/kashua14/2022.png)
-
 
 
 ## Languages and Tools:
