@@ -24,6 +24,8 @@ class Bio extends SoftwareEngineer {
 ```
 
 ## My GitHub Stats:
+
+[![committers.top badge](https://user-badge.committers.top/uganda_private/kashua14.svg)](https://user-badge.committers.top/uganda_private/kashua14)
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=kashua14&theme=dracula&show_icons=true" alt="kashua14" height="200" width="350"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kashua14&theme=dracula&show_icons=true&locale=en&layout=compact" alt="kashua14" height="170" width="350"/>
